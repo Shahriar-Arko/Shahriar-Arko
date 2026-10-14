@@ -10,16 +10,16 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Full-Stack Web Applications & Cryptographic Security Systems**
-- 🌱 I have done my thesis on "Federated Learning with Hierarchical Buffer Clustering"**
-- 💬 Ask me about **Federated Learning, Full-Stack Web Dev (Flask, Django, Laravel, React, Next js), & Cybersecurity**
-- ⚡ Fun fact: **I've solved 200+ problems on LeetCode & Codeforces and co-authoring IEEE & Elsevier research papers!**
+- 🌱 I have done my thesis on **"Federated Learning with Hierarchical Buffer Clustering"**
+- 💬 Ask me about **Federated Learning, Full-Stack Web Dev (Flask, Django, Laravel, React, Next.js), & Cybersecurity**
+- ⚡ Fun fact: **I've solved 200+ problems on LeetCode & Codeforces and co-authored IEEE & Elsevier research papers!**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=Python,js,C,laravel,html,css,Tailwind Css,mysql,git,github,vscode,linux,kali linux,next js,react,blade,MongoDB,Postgresql, " alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,php,pytorch,flask,django,laravel,react,nextjs,tailwind,html,css,mysql,postgres,mongodb,git,github,vscode,linux,kali" alt="Tech Stack" />
 </div>
 
 ---
