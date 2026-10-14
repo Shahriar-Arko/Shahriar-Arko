@@ -10,16 +10,16 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Full-Stack Web Applications & Cryptographic Security Systems**
-- 🌱 I’m currently researching **AI, Anti-Forensics, and Network Security**
-- 💬 Ask me about **Cryptography (RSA, ECC, SHA-256), Network Protocols, Laravel, & Python**
-- ⚡ Fun fact: **I love analyzing packets and building secure architectures from scratch**
+- 🌱 I have done my thesis on "Federated Learning with Hierarchical Buffer Clustering"**
+- 💬 Ask me about **Federated Learning, Full-Stack Web Dev (Flask, Django, Laravel, React, Next js), & Cybersecurity**
+- ⚡ Fun fact: **I've solved 200+ problems on LeetCode & Codeforces and co-authoring IEEE & Elsevier research papers!**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,py,js,html,css,mysql,git,github,vscode,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=Python,js,C,laravel,html,css,Tailwind Css,mysql,git,github,vscode,linux,kali linux,next js,react,blade,MongoDB,Postgresql, " alt="Tech Stack" />
 </div>
 
 ---
