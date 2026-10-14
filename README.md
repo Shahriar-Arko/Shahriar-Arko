@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shahriar-Arko&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://views-counter.vercel.app/badge?pageId=Shahriar-Arko&leftColor=555555&rightColor=0e75b6&type=total&label=Profile%20Views&style=none" alt="Profile Views" />
 </p>
 
 ---
