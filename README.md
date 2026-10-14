@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Full-Stack Web Applications & Cryptographic Security Systems**
+- 🔭 I usually build **Full-Stack Web Applications & Cryptographic Security Systems**
 - 🌱 I have done my thesis on **"Federated Learning with Hierarchical Buffer Clustering"**
 - 💬 Ask me about **Federated Learning, Full-Stack Web Dev (Flask, Django, Laravel, React, Next.js), & Cybersecurity**
 - ⚡ Fun fact: **I've solved 200+ problems on LeetCode & Codeforces and co-authored IEEE & Elsevier research papers!**
